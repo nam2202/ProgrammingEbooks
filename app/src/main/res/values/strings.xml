@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Programming eBooks</string>
+
+    <string-array name="Stories_name">
+        <item>Android Notes for Professionals</item>
+        <item>HTML5 Notes for Professionals</item>
+        <item>C Notes for Professionals</item>
+        <item>CSS Notes for Professionals</item>
+        <item>Java Notes for Professionals</item>
+        <item>Linux Notes for Professionals</item>
+        <item>Python Notes for Professionals</item>
+        <item>SQL Notes for Professionals</item>
+
+    </string-array>
+</resources>
